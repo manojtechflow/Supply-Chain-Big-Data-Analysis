@@ -1,4 +1,4 @@
-Order Status,Order_Status_Id
+Order Status,Ord_Status_Id
 COMPLETE,0
 PENDING,1
 CLOSED,2
