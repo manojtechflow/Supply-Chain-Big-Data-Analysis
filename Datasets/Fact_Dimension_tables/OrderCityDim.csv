@@ -7,7 +7,7 @@ Guangzhou,4
 Tokio,5
 Manado,6
 Sangli,7
-Seúl,8
+SeÃºl,8
 Jabalpur,9
 Geelong,10
 Brisbane,11
@@ -59,26 +59,26 @@ Juazeiro,56
 Mexico City,57
 Tlaquepaque,58
 Puebla,59
-São Paulo,60
+SÃ£o Paulo,60
 Montevideo,61
 Buenos Aires,62
 Barueri,63
 Arapongas,64
-Camagüey,65
+CamagÃ¼ey,65
 Las Tunas,66
 Tepic,67
 San Miguelito,68
 Ixtapaluca,69
-Maceió,70
+MaceiÃ³,70
 Belo Horizonte,71
 Santiago de Cuba,72
 San Pedro Sula,73
 Lima,74
-Holguín,75
+HolguÃ­n,75
 Orizaba,76
 Managua,77
 Villahermosa,78
-Quixadá,79
+QuixadÃ¡,79
 Mixco,80
 Nueva Gerona,81
 Chimaltenango,82
@@ -87,12 +87,12 @@ Quito,84
 Valle de La Pascua,85
 Cotia,86
 Itapecuru Mirim,87
-León,88
+LeÃ³n,88
 Tlalpan,89
 Apopa,90
 Cipolletti,91
 La Ceiba,92
-Córdoba,93
+CÃ³rdoba,93
 Kuito,94
 Jartum,95
 Hargeysa,96
@@ -167,7 +167,7 @@ Shinyanga,164
 Kismaayo,165
 Butare,166
 Newcastle,167
-Jerusalén,168
+JerusalÃ©n,168
 Gold Coast,169
 Porirua,170
 Mildura,171
@@ -198,9 +198,9 @@ Kerman,195
 Vadodara,196
 Semarang,197
 Cirebon,198
-Rangún,199
-Kütahya,200
-Namangán,201
+RangÃºn,199
+KÃ¼tahya,200
+NamangÃ¡n,201
 Xinzhou,202
 Mudanjiang,203
 Lokossa,204
@@ -239,20 +239,20 @@ Lisbon,236
 Wolverhampton,237
 Satu Mare,238
 Guadalajara,239
-Cúcuta,240
+CÃºcuta,240
 Zacatecas,241
 Chihuahua,242
-Brasília,243
-Santarém,244
+BrasÃ­lia,243
+SantarÃ©m,244
 Joinville,245
 Monterrey,246
 Pitalito,247
-Querétaro,248
+QuerÃ©taro,248
 Chaguanas,249
 Hermosillo,250
 Coacalco,251
-Balneário Camboriú,252
-Maturín,253
+BalneÃ¡rio CamboriÃº,252
+MaturÃ­n,253
 Parintins,254
 Huehuetenango,255
 Chinautla,256
@@ -261,9 +261,9 @@ San Justo,258
 Colombo,259
 Itu,260
 Cuernavaca,261
-Águas Lindas de Goiás,262
+Ãguas Lindas de GoiÃ¡s,262
 Vespasiano,263
-Bogotá,264
+BogotÃ¡,264
 Bhilai,265
 Qingdao,266
 Herat,267
@@ -277,7 +277,7 @@ Weifang,274
 Yogyakarta,275
 Rockhampton,276
 Siping,277
-Shanghái,278
+ShanghÃ¡i,278
 Depok,279
 Kawasaki,280
 Lahore,281
@@ -317,7 +317,7 @@ Lviv,314
 Hidalgo,315
 Irapuato,316
 Zapopan,317
-Mauá,318
+MauÃ¡,318
 Qom,319
 Denver,320
 Jacksonville,321
@@ -327,7 +327,7 @@ The Hague,324
 Halifax,325
 Ratingen,326
 Galati,327
-Lázaro Cárdenas,328
+LÃ¡zaro CÃ¡rdenas,328
 Arnhem,329
 Parma,330
 Vantaa,331
@@ -348,7 +348,7 @@ Dordrecht,345
 Strasbourg,346
 Alphen aan den Rijn,347
 Lublin,348
-Dublín,349
+DublÃ­n,349
 Six-Fours-les-Plages,350
 Rennes,351
 Capannori,352
@@ -381,9 +381,9 @@ Durango,378
 Serra,379
 Santiago de los Caballeros,380
 San Salvador,381
-Pinar del Río,382
-Araranguá,383
-Juárez,384
+Pinar del RÃ­o,382
+AraranguÃ¡,383
+JuÃ¡rez,384
 Puno,385
 Navegantes,386
 Tampico,387
@@ -394,14 +394,14 @@ Americana,391
 Indaial,392
 Tijuana,393
 Ciudad del Carmen,394
-Santana de Parnaíba,395
+Santana de ParnaÃ­ba,395
 Limeira,396
 Valencia,397
 Santiago de Chile,398
-Macapá,399
+MacapÃ¡,399
 Portmore,400
 Saltillo,401
-Guantánamo,402
+GuantÃ¡namo,402
 Cartago,403
 Arequipa,404
 Atlixco,405
@@ -450,7 +450,7 @@ Miramas,447
 Sofia,448
 Granada,449
 Mont-Saint-Aignan,450
-Berlín,451
+BerlÃ­n,451
 Cagliari,452
 Erftstadt,453
 Harrow,454
@@ -486,7 +486,7 @@ Port Macquarie,483
 Vijayawada,484
 Termez,485
 Bishkek,486
-Pekín,487
+PekÃ­n,487
 Thane,488
 Mumbai,489
 Durgapur,490
@@ -529,7 +529,7 @@ Annecy,526
 Magdeburg,527
 Amberes,528
 Makhachkala,529
-Cheliábinsk,530
+CheliÃ¡binsk,530
 Brandenburgo,531
 Wetzlar,532
 Pertuis,533
@@ -540,7 +540,7 @@ Vichy,537
 Lohne,538
 Le Mans,539
 Bordeaux,540
-Astracán,541
+AstracÃ¡n,541
 Rouen,542
 Stuttgart,543
 Peterborough,544
@@ -560,12 +560,12 @@ Presidente Dutra,557
 Villa Canales,558
 Jiutepec,559
 Brumado,560
-Teresópolis,561
+TeresÃ³polis,561
 Guarulhos,562
 Bornova,563
 Salihli,564
 Tel Aviv,565
-Astaná,566
+AstanÃ¡,566
 Launceston,567
 Ranchi,568
 New Plymouth,569
@@ -629,9 +629,9 @@ Pasig,626
 Ichalkaranji,627
 Palembang,628
 Kota,629
-São Bernardo do Campo,630
-San Martín,631
-Ocotlán,632
+SÃ£o Bernardo do Campo,630
+San MartÃ­n,631
+OcotlÃ¡n,632
 Kabul,633
 Tulsa,634
 Moreno Valley,635
@@ -809,7 +809,7 @@ Ronchin,806
 Carlisle,807
 Kaunas,808
 Rugby,809
-Vínnytsia,810
+VÃ­nnytsia,810
 Derby,811
 Dormagen,812
 Ginebra,813
@@ -821,7 +821,7 @@ Angarsk,818
 Ploiesti,819
 Loughborough,820
 Deuil-la-Barre,821
-Járkov,822
+JÃ¡rkov,822
 Tarragona,823
 Pontivy,824
 Cheltenham,825
@@ -830,7 +830,7 @@ Villenave-d'Ornon,827
 Le Plessis-Robinson,828
 Roanne,829
 Posadas,830
-Culiacán,831
+CuliacÃ¡n,831
 Cienfuegos,832
 Birigui,833
 Denizli,834
@@ -897,7 +897,7 @@ Chicago,894
 Waterbury,895
 Parker,896
 Fairfield,897
-Fayún,898
+FayÃºn,898
 Bournemouth,899
 Argentan,900
 Saint-Michel-sur-Orge,901
@@ -929,7 +929,7 @@ Huddersfield,926
 Hamm,927
 Marly-le-Roi,928
 Leeuwarden,929
-Budënnovsk,930
+BudÃ«nnovsk,930
 Dundee,931
 Bezons,932
 Douarnenez,933
@@ -994,7 +994,7 @@ Yangjiang,991
 Tiflis,992
 Mosul,993
 Xiaogan,994
-Zanyán,995
+ZanyÃ¡n,995
 Jincheng,996
 Mamak,997
 Nanchang,998
@@ -1067,10 +1067,10 @@ San Jose del Monte,1064
 Santa Rosa,1065
 Masaya,1066
 Soyapango,1067
-Medellín,1068
+MedellÃ­n,1068
 Nicoya,1069
-Ribeirão Preto,1070
-Estelí,1071
+RibeirÃ£o Preto,1070
+EstelÃ­,1071
 Itapevi,1072
 Oruro,1073
 Progreso,1074
@@ -1098,7 +1098,7 @@ Rabat,1095
 Kaduna,1096
 Uskudar,1097
 Thies Nones,1098
-Orán,1099
+OrÃ¡n,1099
 Sacramento,1100
 Clarksville,1101
 Noblesville,1102
@@ -1140,19 +1140,19 @@ Emden,1137
 Rimini,1138
 Surubim,1139
 Pontes e Lacerda,1140
-Coyoacán,1141
+CoyoacÃ¡n,1141
 Arauca,1142
 Choloma,1143
-Soledad Díez Gutiérrez,1144
+Soledad DÃ­ez GutiÃ©rrez,1144
 San Rafael,1145
 Milpa Alta,1146
 Feira de Santana,1147
-Francisco Beltrão,1148
-Araguaína,1149
-San José de las Lajas,1150
+Francisco BeltrÃ£o,1148
+AraguaÃ­na,1149
+San JosÃ© de las Lajas,1150
 San Pablo de las Salinas,1151
-Gómez Palacio,1152
-Eunápolis,1153
+GÃ³mez Palacio,1152
+EunÃ¡polis,1153
 Palma Soriano,1154
 Neiva,1155
 Matanzas,1156
@@ -1160,7 +1160,7 @@ Bello,1157
 Santa Clara,1158
 Betim,1159
 Puerto Montt,1160
-Anápolis,1161
+AnÃ¡polis,1161
 Santa Ana,1162
 Morelia,1163
 Puerto La Cruz,1164
@@ -1168,7 +1168,7 @@ La Romana,1165
 Santa Cruz de Barahona,1166
 Barra Mansa,1167
 Salvador,1168
-João Pessoa,1169
+JoÃ£o Pessoa,1169
 Nuevo Laredo,1170
 Santo Domingo de los Colorados,1171
 La Vega,1172
@@ -1179,7 +1179,7 @@ Ivano-Frankivs'k,1176
 Mwanza,1177
 Benghazi,1178
 Arkhangelsk,1179
-Jizán,1180
+JizÃ¡n,1180
 Tivoli,1181
 Cachan,1182
 Les Pavillons-sous-Bois,1183
@@ -1199,29 +1199,29 @@ Domont,1196
 Puteaux,1197
 Erfurt,1198
 Santa Fe,1199
-San Francisco del Rincón,1200
+San Francisco del RincÃ³n,1200
 Porto Alegre,1201
 Miguel Hidalgo,1202
-Heroica Zitácuaro,1203
+Heroica ZitÃ¡cuaro,1203
 Veracruz,1204
 Choluteca,1205
 Resende,1206
-San Cristóbal de Las Casas,1207
-Tuxtla Gutiérrez,1208
-Mossoró,1209
+San CristÃ³bal de Las Casas,1207
+Tuxtla GutiÃ©rrez,1208
+MossorÃ³,1209
 Celaya,1210
-Gonaïves,1211
-Sancti Spíritus,1212
+GonaÃ¯ves,1211
+Sancti SpÃ­ritus,1212
 Armenia,1213
 Metepec,1214
 Tulancingo,1215
 Castanhal,1216
 Bucaramanga,1217
 Soledad,1218
-Acuña,1219
-Itaúna,1220
+AcuÃ±a,1219
+ItaÃºna,1220
 San Fernando,1221
-El Limón,1222
+El LimÃ³n,1222
 Barranquilla,1223
 Poza Rica de Hidalgo,1224
 Altamira,1225
@@ -1235,7 +1235,7 @@ Caxias do Sul,1232
 Delgado,1233
 Blumenau,1234
 Las Piedras,1235
-Colón,1236
+ColÃ³n,1236
 Teresina,1237
 Gaziantep,1238
 Busan,1239
@@ -1246,7 +1246,7 @@ Laiyang,1243
 Bhatpara,1244
 Malayer,1245
 Parbhani,1246
-Karagandá,1247
+KaragandÃ¡,1247
 Huaibei,1248
 Matsubara,1249
 Harbin,1250
@@ -1261,16 +1261,16 @@ Caracas,1258
 Cabo Frio,1259
 Valinhos,1260
 Tlalnepantla,1261
-Obregón,1262
+ObregÃ³n,1262
 El Progreso,1263
 General Escobedo,1264
-San Luis Río Colorado,1265
+San Luis RÃ­o Colorado,1265
 Contramaestre,1266
 Talcahuano,1267
 Victoria,1268
 Reynosa,1269
 Bridgetown,1270
-São Gonçalo,1271
+SÃ£o GonÃ§alo,1271
 Penedo,1272
 Moa,1273
 Los Mochis,1274
@@ -1281,14 +1281,14 @@ Villa Frontera,1278
 Madero,1279
 Iguala,1280
 Cochabamba,1281
-Consolación del Sur,1282
+ConsolaciÃ³n del Sur,1282
 Igarassu,1283
 Manizales,1284
 Guasave,1285
-Mérida,1286
+MÃ©rida,1286
 Pindamonhangaba,1287
 Barquisimeto,1288
-Açu,1289
+AÃ§u,1289
 Yopal,1290
 Sylhet,1291
 Hamilton,1292
@@ -1321,7 +1321,7 @@ Les Abymes,1318
 Colima,1319
 Nova Serrana,1320
 Huancayo,1321
-Paraná,1322
+ParanÃ¡,1322
 Ashdod,1323
 Hohhot,1324
 Fengcheng,1325
@@ -1333,12 +1333,12 @@ Ibadan,1330
 Katsina,1331
 Cesena,1332
 Farnborough,1333
-San Nicolás de los Arroyos,1334
+San NicolÃ¡s de los Arroyos,1334
 Jieyang,1335
 Franklin,1336
-São Leopoldo,1337
+SÃ£o Leopoldo,1337
 Klaip?da,1338
-Gómel,1339
+GÃ³mel,1339
 Broken Hill,1340
 Kunming,1341
 Sukabumi,1342
@@ -1397,61 +1397,61 @@ Fontainebleau,1394
 Sevastopol,1395
 Salina Cruz,1396
 Guayaquil,1397
-Maringá,1398
+MaringÃ¡,1398
 Puente Alto,1399
-San Luis Potosí,1400
-San Pedro de Macorís,1401
+San Luis PotosÃ­,1400
+San Pedro de MacorÃ­s,1401
 Itaituba,1402
 Piedras Negras,1403
 Rancagua,1404
-Antiguo Cuscatlán,1405
+Antiguo CuscatlÃ¡n,1405
 Santa Catarina,1406
-Jequié,1407
-Baní,1408
-Amatitlán,1409
-Simões Filho,1410
-Chapecó,1411
+JequiÃ©,1407
+BanÃ­,1408
+AmatitlÃ¡n,1409
+SimÃµes Filho,1410
+ChapecÃ³,1411
 Resistencia,1412
 Barreirinhas,1413
-Paysandú,1414
-Jataí,1415
+PaysandÃº,1414
+JataÃ­,1415
 Cruzeiro,1416
 Rivera,1417
 Uruguaiana,1418
 Arapiraca,1419
 Guarapuava,1420
-San Francisco de Macorís,1421
+San Francisco de MacorÃ­s,1421
 Campeche,1422
-Itajaí,1423
+ItajaÃ­,1423
 Turmero,1424
 Bom Jesus da Lapa,1425
 Gaspar,1426
 Linhares,1427
 Miramar,1428
-Ilhéus,1429
+IlhÃ©us,1429
 Umuarama,1430
-São José dos Campos,1431
-Ibiúna,1432
+SÃ£o JosÃ© dos Campos,1431
+IbiÃºna,1432
 Praia Grande,1433
 Cruz das Almas,1434
 Santa Cruz de la Sierra,1435
 Novo Gama,1436
 Pouso Alegre,1437
 Jacobina,1438
-Asunción,1439
+AsunciÃ³n,1439
 Paita,1440
 Apodaca,1441
 Bayamo,1442
 Spanish Town,1443
-Santo André,1444
-Ciego de Ávila,1445
-Torreón,1446
+Santo AndrÃ©,1444
+Ciego de Ãvila,1445
+TorreÃ³n,1446
 Limoeiro do Norte,1447
 Cajazeiras,1448
 Pereira,1449
-Camaçari,1450
+CamaÃ§ari,1450
 Franca,1451
-Tupã,1452
+TupÃ£,1452
 Juiz de Fora,1453
 Cajamarca,1454
 Votuporanga,1455
@@ -1459,13 +1459,13 @@ Puerto Vallarta,1456
 Chinandega,1457
 Antofagasta,1458
 Sabanalarga,1459
-Ji-Paraná,1460
+Ji-ParanÃ¡,1460
 San Juan de la Maguana,1461
-Araçatuba,1462
+AraÃ§atuba,1462
 Canoas,1463
-Cancún,1464
-San Cristóbal,1465
-Grajaú,1466
+CancÃºn,1464
+San CristÃ³bal,1465
+GrajaÃº,1466
 Kirsehir,1467
 Sandakan,1468
 Asjabad,1469
@@ -1505,29 +1505,29 @@ Crawley,1502
 Wasquehal,1503
 Miass,1504
 Villach,1505
-Vladímir,1506
+VladÃ­mir,1506
 Annemasse,1507
 Metz,1508
 Levallois-Perret,1509
 Givors,1510
-Bélgorod,1511
+BÃ©lgorod,1511
 Menden,1512
-Arraiján,1513
+ArraijÃ¡n,1513
 Rosario,1514
-Concepción del Uruguay,1515
-Viña del Mar,1516
-Apatzingán de la Constitución,1517
-Tecomán,1518
-Vitória,1519
+ConcepciÃ³n del Uruguay,1515
+ViÃ±a del Mar,1516
+ApatzingÃ¡n de la ConstituciÃ³n,1517
+TecomÃ¡n,1518
+VitÃ³ria,1519
 Portoviejo,1520
 Trinidad,1521
 Passo Fundo,1522
 Aracaju,1523
-San Andrés Tuxtla,1524
-Jamundí,1525
-Tehuacán,1526
+San AndrÃ©s Tuxtla,1524
+JamundÃ­,1525
+TehuacÃ¡n,1526
 Lagos de Moreno,1527
-São Miguel dos Campos,1528
+SÃ£o Miguel dos Campos,1528
 Sonsonate,1529
 Bezerros,1530
 Kochi,1531
@@ -1547,7 +1547,7 @@ Edogawa-ku,1544
 Kastamonu,1545
 Superior,1546
 Regina,1547
-Montréal,1548
+MontrÃ©al,1548
 Tempe,1549
 Albuquerque,1550
 Wilson,1551
@@ -1588,7 +1588,7 @@ Sceaux,1585
 Montauban,1586
 Sassari,1587
 La Plata,1588
-Cuiabá,1589
+CuiabÃ¡,1589
 Malambo,1590
 Auch,1591
 Lorca,1592
@@ -1596,8 +1596,8 @@ Kingswood,1593
 Draguignan,1594
 Offenburg,1595
 Valles,1596
-Morón,1597
-São Benedito,1598
+MorÃ³n,1597
+SÃ£o Benedito,1598
 Silao,1599
 Enugu,1600
 Mombasa,1601
@@ -1620,10 +1620,10 @@ Suresnes,1617
 Les Clayes-sous-Bois,1618
 Krefeld,1619
 Fort-de-France,1620
-Jacareí,1621
+JacareÃ­,1621
 Cartagena,1622
 Bajos de Haina,1623
-Los Ángeles,1624
+Los Ãngeles,1624
 Maracay,1625
 Qitaihe,1626
 Tangshan,1627
@@ -1643,7 +1643,7 @@ Portage,1640
 Balti,1641
 Osijek,1642
 Lisichansk,1643
-Lambaré,1644
+LambarÃ©,1644
 Jodhpur,1645
 La Mesa,1646
 Katowice,1647
@@ -1688,7 +1688,7 @@ Thonon-les-Bains,1685
 Mar del Plata,1686
 Soacha,1687
 Iquique,1688
-Boa Esperança,1689
+Boa EsperanÃ§a,1689
 Gladstone,1690
 Mathura,1691
 Amravati,1692
@@ -1701,12 +1701,12 @@ Maxixe,1698
 Sucy-en-Brie,1699
 Haarlem,1700
 Lugo,1701
-Valparaíso,1702
-Nicolás Romero,1703
-Guaratinguetá,1704
+ValparaÃ­so,1702
+NicolÃ¡s Romero,1703
+GuaratinguetÃ¡,1704
 Troy,1705
 Belfort,1706
-Teherán,1707
+TeherÃ¡n,1707
 Bareilly,1708
 Funabashi,1709
 Dongguan,1710
@@ -1768,7 +1768,7 @@ La Celle-Saint-Cloud,1765
 Montrouge,1766
 Oyonnax,1767
 Karlsruhe,1768
-Lora del Río,1769
+Lora del RÃ­o,1769
 Colombes,1770
 Zaanstad,1771
 Estepona,1772
@@ -1816,17 +1816,17 @@ Graz,1813
 Bruselas,1814
 Norderstedt,1815
 Eindhoven,1816
-Potosí,1817
+PotosÃ­,1817
 Palmira,1818
-São Luís,1819
+SÃ£o LuÃ­s,1819
 Melchor Ocampo,1820
-Guzmán,1821
-Caçador,1822
+GuzmÃ¡n,1821
+CaÃ§ador,1822
 Piura,1823
-Ibirité,1824
+IbiritÃ©,1824
 Zihuatanejo,1825
 Los Patios,1826
-Lençóis Paulista,1827
+LenÃ§Ã³is Paulista,1827
 Bengkulu,1828
 Karnal,1829
 Mentougou,1830
@@ -1835,7 +1835,7 @@ Hapur,1832
 Jinjiang,1833
 Sanya,1834
 Bengbu,1835
-Hamadán,1836
+HamadÃ¡n,1836
 Jining,1837
 Jammu,1838
 Edinburg,1839
@@ -1883,7 +1883,7 @@ La Porte,1880
 Irving,1881
 Athens,1882
 Safi,1883
-Béchar,1884
+BÃ©char,1884
 Yaounde,1885
 Aba,1886
 Ebolowa,1887
@@ -1937,18 +1937,18 @@ Novo Cruzeiro,1934
 Monclova,1935
 Boa Vista,1936
 Natal,1937
-Petrópolis,1938
-Cárdenas,1939
+PetrÃ³polis,1938
+CÃ¡rdenas,1939
 Barbacena,1940
 Cuajimalpa,1941
 Jaboticabal,1942
 Mogi das Cruzes,1943
-José Bonifácio,1944
-Bolívar,1945
-Cuautitlán,1946
+JosÃ© BonifÃ¡cio,1944
+BolÃ­var,1945
+CuautitlÃ¡n,1946
 Abreu e Lima,1947
-Ibagué,1948
-Ijuí,1949
+IbaguÃ©,1948
+IjuÃ­,1949
 Bhopal,1950
 Bhiwandi,1951
 Yokkaichi,1952
@@ -2000,7 +2000,7 @@ Bloemfontein,1997
 Batna,1998
 Sokoto,1999
 Westonaria,2000
-Túnez,2001
+TÃºnez,2001
 Maradi,2002
 Benguela,2003
 Bideford,2004
@@ -2051,17 +2051,17 @@ Baia Mare,2048
 Le Cannet,2049
 Ludwigshafen am Rhein,2050
 Drogobych,2051
-Chisináu,2052
+ChisinÃ¡u,2052
 Gardanne,2053
 Beaune,2054
 Guayana,2055
-Ocaña,2056
-Sahuayo de José María Morelos,2057
+OcaÃ±a,2056
+Sahuayo de JosÃ© MarÃ­a Morelos,2057
 Duque de Caxias,2058
 Chetumal,2059
 Montes Claros,2060
-Goiânia,2061
-Fresnillo de González Echeverría,2062
+GoiÃ¢nia,2061
+Fresnillo de GonzÃ¡lez EcheverrÃ­a,2062
 Carora,2063
 Diadema,2064
 Esenyurt,2065
@@ -2092,7 +2092,7 @@ Fiumicino,2089
 Sant Boi de Llobregat,2090
 Podgorica,2091
 Sarajevo,2092
-Garza García,2093
+Garza GarcÃ­a,2093
 Orange,2094
 Sterling Heights,2095
 Hialeah,2096
@@ -2109,7 +2109,7 @@ Vlore,2106
 Cremona,2107
 Colomiers,2108
 Lorena,2109
-Paranaguá,2110
+ParanaguÃ¡,2110
 Mosquera,2111
 Guanambi,2112
 Andijon,2113
@@ -2138,7 +2138,7 @@ Kafr ad Dawwar,2135
 Morley,2136
 Rio Grande,2137
 Peshawar,2138
-Girón,2139
+GirÃ³n,2139
 Coventry,2140
 Kigali,2141
 Juba,2142
@@ -2189,8 +2189,8 @@ Puducherry,2186
 Cuttack,2187
 Mcallen,2188
 Angers,2189
-Hradec Králové,2190
-Presidencia Roque Sáenz Peña,2191
+Hradec KrÃ¡lovÃ©,2190
+Presidencia Roque SÃ¡enz PeÃ±a,2191
 Greensboro,2192
 Beira,2193
 Sikasso,2194
@@ -2238,7 +2238,7 @@ Zhlobin,2235
 Parla,2236
 Lecce,2237
 Alfortville,2238
-Ternópil,2239
+TernÃ³pil,2239
 Nogent-sur-Oise,2240
 Douai,2241
 Saint-Herblain,2242
@@ -2284,7 +2284,7 @@ Chelmsford,2281
 Gillingham,2282
 Velsen,2283
 Regensburg,2284
-Jundiaí,2285
+JundiaÃ­,2285
 Ardebil,2286
 Barasat,2287
 Can Tho,2288
@@ -2340,7 +2340,7 @@ Harrogate,2337
 Badajoz,2338
 Limoges,2339
 Chilpancingo,2340
-Tianguá,2341
+TianguÃ¡,2341
 Linares,2342
 Paracatu,2343
 Florencia,2344
@@ -2386,8 +2386,8 @@ Capelle aan den IJssel,2383
 Antibes,2384
 Marsala,2385
 Valle Hermoso,2386
-Araucária,2387
-Bahía Blanca,2388
+AraucÃ¡ria,2387
+BahÃ­a Blanca,2388
 Arica,2389
 Port Arthur,2390
 Port Said,2391
@@ -2403,7 +2403,7 @@ Yueyang,2400
 Torrance,2401
 Alessandria,2402
 Provo,2403
-Cumaná,2404
+CumanÃ¡,2404
 Chililabombwe,2405
 Kayes,2406
 Kabwe,2407
@@ -2417,8 +2417,8 @@ Ensenada,2414
 Yaritagua,2415
 Ananindeua,2416
 Dourados,2417
-Chillán,2418
-Valparaíso de Goiás,2419
+ChillÃ¡n,2418
+ValparaÃ­so de GoiÃ¡s,2419
 Osorno,2420
 Aracati,2421
 Purwokerto,2422
@@ -2482,7 +2482,7 @@ Esquina,2479
 Piedecuesta,2480
 Mezitli,2481
 Whitby,2482
-Neuquén,2483
+NeuquÃ©n,2483
 Hengyang,2484
 Passaic,2485
 Udaipur,2486
@@ -2490,7 +2490,7 @@ Calabar,2487
 Gravesend,2488
 Rivne,2489
 Gummersbach,2490
-Kostanái,2491
+KostanÃ¡i,2491
 Orem,2492
 Sobral,2493
 Vereeniging,2494
@@ -2499,8 +2499,8 @@ Drammen,2496
 Gosport,2497
 Granollers,2498
 Valence,2499
-Bragança Paulista,2500
-Sumaré,2501
+BraganÃ§a Paulista,2500
+SumarÃ©,2501
 Frontera,2502
 Tawau,2503
 Jhansi,2504
@@ -2520,9 +2520,9 @@ Chatou,2517
 Iquitos,2518
 Temixco,2519
 Cayenne,2520
-Rolândia,2521
-Criciúma,2522
-São Pedro da Aldeia,2523
+RolÃ¢ndia,2521
+CriciÃºma,2522
+SÃ£o Pedro da Aldeia,2523
 Bene Beraq,2524
 Jember,2525
 Kurashiki,2526
@@ -2539,7 +2539,7 @@ Harlingen,2536
 Dearborn Heights,2537
 Lehi,2538
 Champaign,2539
-Vorónezh,2540
+VorÃ³nezh,2540
 Bra?ov,2541
 Paisley,2542
 Vacaria,2543
@@ -2552,7 +2552,7 @@ Roodepoort,2549
 Tychy,2550
 Avion,2551
 Trappes,2552
-Vitória de Santo Antão,2553
+VitÃ³ria de Santo AntÃ£o,2553
 Bangui,2554
 Settat,2555
 Pernik,2556
@@ -2563,9 +2563,9 @@ Willich,2560
 Potsdam,2561
 Calabozo,2562
 Villa Alemana,2563
-Gravataí,2564
+GravataÃ­,2564
 Itapecerica da Serra,2565
-Copiapó,2566
+CopiapÃ³,2566
 Ibaraki,2567
 Gaya,2568
 Hoover,2569
@@ -2589,7 +2589,7 @@ Jinhua,2586
 Sakai,2587
 Shashi,2588
 Taytay,2589
-Qazvín,2590
+QazvÃ­n,2590
 Sonipat,2591
 Palmerston,2592
 Haikou,2593
@@ -2626,9 +2626,9 @@ Durban,2623
 Pitesti,2624
 Dieppe,2625
 Bourg-en-Bresse,2626
-Taubaté,2627
-São Vicente,2628
-Cubatão,2629
+TaubatÃ©,2627
+SÃ£o Vicente,2628
+CubatÃ£o,2629
 Artemisa,2630
 Jamshedpur,2631
 Polatli,2632
@@ -2639,7 +2639,7 @@ Guelph,2636
 Encinitas,2637
 Eagan,2638
 Zlatoust,2639
-Jersón,2640
+JersÃ³n,2640
 Zabrze,2641
 Chaville,2642
 Pontevedra,2643
@@ -2655,8 +2655,8 @@ Tallinn,2652
 Dewsbury,2653
 Tournefeuille,2654
 Uberaba,2655
-Oriximiná,2656
-Bagé,2657
+OriximinÃ¡,2656
+BagÃ©,2657
 Huaraz,2658
 Sagamihara,2659
 Jiangdu,2660
@@ -2680,7 +2680,7 @@ Shkoder,2677
 Liaoyang,2678
 Thanjavur,2679
 Mtwara,2680
-Cúa,2681
+CÃºa,2681
 Hachinohe,2682
 Botosani,2683
 Aswan,2684
@@ -2695,10 +2695,10 @@ Pulheim,2692
 Sabadell,2693
 Forst,2694
 Lucerna,2695
-Ústí nad Labem,2696
+ÃstÃ­ nad Labem,2696
 Catia La Mar,2697
 Presidente Prudente,2698
-San Juan del Río,2699
+San Juan del RÃ­o,2699
 Xining,2700
 Bilaspur,2701
 Aoba-ku,2702
@@ -2716,13 +2716,13 @@ Bukavu,2713
 Rueil-Malmaison,2714
 Nicosia,2715
 Bron,2716
-Teziutlán,2717
+TeziutlÃ¡n,2717
 Verviers,2718
 Brentwood,2719
 Echuca,2720
 Atlantic City,2721
 Kaiserslautern,2722
-Patrocínio,2723
+PatrocÃ­nio,2723
 Ratlam,2724
 Varese,2725
 Plaisir,2726
@@ -2738,8 +2738,8 @@ Bagnolet,2735
 Lugoj,2736
 Crotone,2737
 Northwich,2738
-Quibdó,2739
-Uberlândia,2740
+QuibdÃ³,2739
+UberlÃ¢ndia,2740
 Dehra Dun,2741
 Najafabad,2742
 Hamamatsu,2743
@@ -2754,7 +2754,7 @@ Bagamoyo,2751
 Brighton,2752
 Paulista,2753
 Piatra-Neamt,2754
-Niterói,2755
+NiterÃ³i,2755
 Ipswich,2756
 Perth Amboy,2757
 Manisa,2758
@@ -2774,7 +2774,7 @@ Saint-Avold,2771
 Lormont,2772
 Siedlce,2773
 La Chorrera,2774
-Río Bravo,2775
+RÃ­o Bravo,2775
 Yuyao,2776
 Annonay,2777
 Siena,2778
@@ -2790,7 +2790,7 @@ Maple Grove,2787
 Logan,2788
 Madison,2789
 Ain Oussera,2790
-Vitória da Conquista,2791
+VitÃ³ria da Conquista,2791
 Tembisa,2792
 Umtata,2793
 Barletta,2794
@@ -2804,7 +2804,7 @@ Sindelfingen,2801
 Wafangdian,2802
 Kasala,2803
 Eggenstein-Leopoldshafen,2804
-Cártama,2805
+CÃ¡rtama,2805
 La Roche-sur-Yon,2806
 Kassel,2807
 Kristiansand,2808
@@ -2845,10 +2845,10 @@ Villeparisis,2842
 Kamarhati,2843
 Orsay,2844
 Acayucan,2845
-Guarujá,2846
+GuarujÃ¡,2846
 Catanduva,2847
 Sogamoso,2848
-Zhytómyr,2849
+ZhytÃ³myr,2849
 Orsha,2850
 Zenica,2851
 Springdale,2852
@@ -2868,7 +2868,7 @@ Modena,2865
 Duitama,2866
 Tremblay-en-France,2867
 Southampton,2868
-Günzburg,2869
+GÃ¼nzburg,2869
 Porlamar,2870
 San Luis Obispo,2871
 Burnie,2872
@@ -2879,9 +2879,9 @@ Ancona,2876
 Iskenderun,2877
 Al Hudayda,2878
 Guelma,2879
-Bugía,2880
+BugÃ­a,2880
 Trebisonda,2881
-Bisáu,2882
+BisÃ¡u,2882
 Ras al Khaymah,2883
 Shagamu,2884
 Lodi,2885
@@ -2908,7 +2908,7 @@ Helmond,2905
 Chorzow,2906
 Split,2907
 Berck,2908
-Le Pré-Saint-Gervais,2909
+Le PrÃ©-Saint-Gervais,2909
 Tournai,2910
 Vallauris,2911
 Castelnau-le-Lez,2912
@@ -2986,7 +2986,7 @@ Den Helder,2983
 Enschede,2984
 Sioux Falls,2985
 Manacapuru,2986
-Líbano,2987
+LÃ­bano,2987
 Summerville,2988
 Nakuru,2989
 Epworth,2990
@@ -3008,7 +3008,7 @@ Maubeuge,3005
 Cumbernauld,3006
 Amstelveen,3007
 Sallanches,3008
-Divinópolis,3009
+DivinÃ³polis,3009
 Gulbarga,3010
 Penglai,3011
 Xingtai,3012
@@ -3017,7 +3017,7 @@ Segovia,3014
 Chioggia,3015
 Gliwice,3016
 Lons-le-Saunier,3017
-Catalão,3018
+CatalÃ£o,3018
 Langfang,3019
 Ramat Gan,3020
 Adiyaman,3021
@@ -3052,7 +3052,7 @@ Dole,3049
 Vittoria,3050
 Nysa,3051
 Sousa,3052
-Jaú,3053
+JaÃº,3053
 El Tigre,3054
 Lajeado,3055
 Jiaohe,3056
@@ -3071,7 +3071,7 @@ Arcoverde,3068
 Kawagoe,3069
 Shahjahanpur,3070
 Barddhaman,3071
-Çanakkale,3072
+Ãanakkale,3072
 New Brunswick,3073
 Cottage Grove,3074
 Eau Claire,3075
@@ -3116,7 +3116,7 @@ Trani,3113
 Santa Cruz do Sul,3114
 Paramaribo,3115
 Guatemala City,3116
-Cassilândia,3117
+CassilÃ¢ndia,3117
 Xuanhua,3118
 Leshan,3119
 Hisar,3120
@@ -3136,7 +3136,7 @@ Holland,3133
 Al Amarah,3134
 Maroua,3135
 Moshi,3136
-Rubí,3137
+RubÃ­,3137
 Caluire-et-Cuire,3138
 Pingxiang,3139
 Waukesha,3140
@@ -3155,7 +3155,7 @@ Chiclayo,3152
 Santos,3153
 Riberalta,3154
 San Ignacio,3155
-Taboão da Serra,3156
+TaboÃ£o da Serra,3156
 Tumkur,3157
 Cheonan,3158
 Boca Raton,3159
@@ -3174,7 +3174,7 @@ Bauchi,3171
 Fort Portal,3172
 Terneuzen,3173
 Caraguatatuba,3174
-Apartadó,3175
+ApartadÃ³,3175
 Plaisance-du-Touch,3176
 Clacton-on-Sea,3177
 Getxo,3178
@@ -3186,13 +3186,13 @@ Aydin,3183
 Majadahonda,3184
 Cuxhaven,3185
 Chatham,3186
-Bento Gonçalves,3187
+Bento GonÃ§alves,3187
 Palmares,3188
 Zielona Gora,3189
 Woodbury,3190
 Jalna,3191
 Crato,3192
-Ciénaga,3193
+CiÃ©naga,3193
 Dax,3194
 Molina de Segura,3195
 San Salvador de Jujuy,3196
@@ -3206,7 +3206,7 @@ Xinxiang,3203
 Guiping,3204
 Sartrouville,3205
 Bastia,3206
-Guimarães,3207
+GuimarÃ£es,3207
 Civitavecchia,3208
 Saint-Louis,3209
 Agen,3210
@@ -3222,7 +3222,7 @@ Eskilstuna,3219
 Bad Waldsee,3220
 South Shields,3221
 Osny,3222
-Mâcon,3223
+MÃ¢con,3223
 Loos,3224
 Houilles,3225
 Stourbridge,3226
@@ -3230,14 +3230,14 @@ Andradina,3227
 Pato Branco,3228
 Floriano,3229
 Guarenas,3230
-Palhoça,3231
+PalhoÃ§a,3231
 Cadereyta,3232
 Villavicencio,3233
 Delicias,3234
 Franco da Rocha,3235
 Fernando de la Mora,3236
-Várzea Grande,3237
-Gravatá,3238
+VÃ¡rzea Grande,3237
+GravatÃ¡,3238
 Babol,3239
 Mau,3240
 Clovis,3241
@@ -3266,7 +3266,7 @@ Nijmegen,3263
 Montargis,3264
 Oss,3265
 Cidade Ocidental,3266
-Carapicuíba,3267
+CarapicuÃ­ba,3267
 Talara,3268
 Camarillo,3269
 Uithoorn,3270
@@ -3282,8 +3282,8 @@ Millau,3279
 Harlow,3280
 Dunstable,3281
 Charallave,3282
-Acámbaro,3283
-Paço do Lumiar,3284
+AcÃ¡mbaro,3283
+PaÃ§o do Lumiar,3284
 Barranca,3285
 Torbali,3286
 Shihezi,3287
@@ -3313,7 +3313,7 @@ Rock Hill,3310
 Zwedru,3311
 Iringa,3312
 Gaborone,3313
-Guamúchil,3314
+GuamÃºchil,3314
 Villeneuve-la-Garenne,3315
 Briton Ferry,3316
 Birobidzhan,3317
@@ -3337,7 +3337,7 @@ Greenwood,3334
 Grand Island,3335
 Kiziltepe,3336
 Modica,3337
-Semnán,3338
+SemnÃ¡n,3338
 Beipiao,3339
 Ann Arbor,3340
 Cangzhou,3341
@@ -3380,17 +3380,17 @@ Fort Collins,3377
 North Miami,3378
 Twin Falls,3379
 Rancho Cucamonga,3380
-San José de Guanipa,3381
+San JosÃ© de Guanipa,3381
 Itamaraju,3382
-Tatuí,3383
+TatuÃ­,3383
 Coari,3384
 Senhor do Bonfim,3385
-Poços de Caldas,3386
+PoÃ§os de Caldas,3386
 Camaragibe,3387
 Chevilly-Larue,3388
 Chiclana de la Frontera,3389
 Cuneo,3390
-Upplands Väsby,3391
+Upplands VÃ¤sby,3391
 Visalia,3392
 North Charleston,3393
 Thousand Oaks,3394
@@ -3409,7 +3409,7 @@ South Bend,3406
 Appleton,3407
 Whakatane,3408
 San Pedro,3409
-Coxs B?z?r,3410
+CoxÂs B?z?r,3410
 Yongchuan,3411
 Zaoyang,3412
 Rizhao,3413
@@ -3424,7 +3424,7 @@ Allauch,3421
 Bracknell,3422
 Rosenheim,3423
 Casoria,3424
-Facatativá,3425
+FacatativÃ¡,3425
 La Pintana,3426
 Itapeva,3427
 Musoma,3428
@@ -3440,7 +3440,7 @@ Suceava,3437
 Pazardzhik,3438
 Focsani,3439
 San Carlos del Zulia,3440
-Barra do Piraí,3441
+Barra do PiraÃ­,3441
 Kazerun,3442
 Kawaguchi,3443
 Taldyqorghan,3444
@@ -3459,11 +3459,11 @@ Toliara,3456
 Stafford,3457
 Kortrijk,3458
 Hardenberg,3459
-Junín,3460
+JunÃ­n,3460
 Dzhezkazgan,3461
 Latur,3462
 Yuncheng,3463
-Bingöl,3464
+BingÃ¶l,3464
 New Delhi,3465
 Laurel,3466
 Bellingham,3467
@@ -3498,7 +3498,7 @@ Bitonto,3495
 San Severo,3496
 Battipaglia,3497
 Andria,3498
-Cambé,3499
+CambÃ©,3499
 Pasto,3500
 Aalen,3501
 Belgrade,3502
@@ -3526,15 +3526,15 @@ Arrentela,3523
 Springs,3524
 Tartu,3525
 Braga,3526
-Montería,3527
+MonterÃ­a,3527
 Katsushika-ku,3528
 Juliaca,3529
 Neyshabur,3530
 Commerce City,3531
 Deer Park,3532
-El Aaiún,3533
+El AaiÃºn,3533
 Libourne,3534
-Seropédica,3535
+SeropÃ©dica,3535
 Qidong,3536
 Moissy-Cramayel,3537
 Wendeng,3538
@@ -3574,7 +3574,7 @@ Gonesse,3571
 Missoula,3572
 Shangzhi,3573
 Benoni,3574
-Sète,3575
+SÃ¨te,3575
 Contagem,3576
 Amagasaki,3577
 El Escorial,3578
@@ -3587,7 +3587,7 @@ Limbe,3584
 Campo Limpo Paulista,3585
 Pingnan,3586
 Tottori,3587
-Rondonópolis,3588
+RondonÃ³polis,3588
 Yucaipa,3589
 Volksrust,3590
 Anglet,3591
