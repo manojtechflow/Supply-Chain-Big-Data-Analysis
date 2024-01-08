@@ -1,4 +1,4 @@
-# End-to-End Supply Chain Insights: Big Data Analytics (Check)
+# End-to-End Supply Chain Insights: Big Data Analytics
 
 ## Overview
 
