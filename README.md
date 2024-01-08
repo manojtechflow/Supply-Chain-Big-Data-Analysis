@@ -45,6 +45,7 @@ This project offers in-depth analytics, modeling, and mining of a comprehensive 
 
 ## Implementations
 
+## Data Distribution Overview
 ```python
 # label Encoding for object columns in dataset
 from sklearn.preprocessing import LabelEncoder
