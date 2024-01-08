@@ -64,8 +64,8 @@ hist_data.hist(alpha=0.8, figsize=(12, 10))
 plt.tight_layout()
 plt.savefig('./Results/Plots/data_distribution.png')  # Save the data distribution overview image
 plt.show()
-
-![Data Distribution Overview](data_distribution.png)
+```
+![Data Distribution Overview](./Results/Plots/data_distribution.png)
 
 
 ## Requirements
