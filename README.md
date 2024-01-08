@@ -68,7 +68,39 @@ plt.show()
 ```
 ![Data Distribution Overview](./Results/Plots/data_distribution.png)
 
+## Categorical Data Distribution
+```python
+# Plotting multiple Bar Charts for understanding categorical data distribution
+# Customer Country
 
+# Set up for sub plots
+fig, axis = plt.subplots(nrows=2, ncols=2, figsize = (12, 5))
+
+#sub plot 1
+sns.countplot(x = 'Type', data = supply_dataset, ax=axis[0][0])
+axis[0][0].set_title("Distribution of Payment Type")
+
+#sub plot 2
+sns.countplot(x = 'Customer Country', data = supply_dataset, ax=axis[0][1])
+axis[0][1].set_title("Distribution of Customer Country")
+
+#sub plot 3
+sns.countplot(x = 'Market', data=supply_dataset, ax=axis[1][0])
+axis[1][0].set_title("Distribution of Market")
+
+#sub plot 4
+plot = sns.countplot(x = 'Department Name', data=supply_dataset, ax=axis[1][1])
+axis[1][1].set_xticklabels(plot.get_xticklabels(), rotation=90)
+axis[1][1].set_title("Distribution of Departments")
+
+# Adjusting layout to prevent overlapping
+plt.tight_layout()
+plt.savefig('./Results/Plots/categorical_distribution.png')  # Save the  image
+# Show Plots
+plt.show()
+
+```
+![Categorical Distribution Overview](./Results/Plots/categorical_distribution.png)
 ## Requirements
 
 - Python 3.x
