@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on in-depth analytics, modeling, and mining of a comprehensive supply chain dataset. Through a series of notebooks, the project covers data analysis, modeling, and mining, providing valuable insights into various facets of the supply chain, including sales patterns, revenue analysis, delivery performance, and customer behavior.
+This project offers in-depth analytics, modeling, and mining of a comprehensive supply chain dataset. The notebooks cover data analysis, modeling, and mining, providing valuable insights into various facets of the supply chain, including sales patterns, revenue analysis, delivery performance, and customer behavior.
 
 ## Project Structure
 
@@ -41,6 +41,32 @@ This project focuses on in-depth analytics, modeling, and mining of a comprehens
 2. **Data_Modeling.ipynb**: Create dimension tables, form a fact table, and extract relevant features for analysis.
 
 3. **Data_Mining.ipynb**: Analyze sales, revenue, and delivery performance. Apply RFM analysis, time series analysis, and geospatial analysis.
+
+
+## Implementations
+
+```python
+# label Encoding for object columns in dataset
+from sklearn.preprocessing import LabelEncoder
+
+def Change_Obj_Type(data):
+    for column in data.columns:
+        if data[column].dtype == type(object):
+            le = LabelEncoder()
+            data[column] = le.fit_transform(data[column])
+    return data
+
+hist_data = Change_Obj_Type(hist_data)
+hist_data.head()
+
+# Overview of Data Distribution
+hist_data.hist(alpha=0.8, figsize=(12, 10))
+plt.tight_layout()
+plt.savefig('./Results/Plots/data_distribution.png')  # Save the data distribution overview image
+plt.show()
+
+![Data Distribution Overview](data_distribution.png)
+
 
 ## Requirements
 
