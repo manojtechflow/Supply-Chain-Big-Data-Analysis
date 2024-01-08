@@ -1,4 +1,4 @@
-# Supply Chain Analytics Project
+# End-to-End Supply Chain Insights: Big Data Analytics
 
 ## Overview
 
