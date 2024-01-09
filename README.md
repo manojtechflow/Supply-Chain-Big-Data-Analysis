@@ -1,8 +1,11 @@
 # End-to-End Supply Chain Insights: Big Data Analytics
 
+
 ## Overview
 
-This project offers in-depth analytics, modeling, and mining of a comprehensive supply chain dataset. The notebooks cover data analysis, modeling, and mining, providing valuable insights into various facets of the supply chain, including sales patterns, revenue analysis, delivery performance, and customer behavior.
+This project encompasses an extensive exploration, modeling, and analysis of a substantial supply chain dataset. The provided notebooks delve into diverse facets of the supply chain domain, including rigorous data analysis, advanced modeling techniques, and insightful data mining. The focus areas span sales patterns, revenue analysis, delivery performance, and customer behavior.
+
+A notable highlight of the project involves predicting sales utilizing the powerful XGBoost regressor. This predictive modeling approach brings an additional layer of sophistication to the analysis, offering valuable insights into future sales trends within the supply chain.
 
 ## Project Structure
 
@@ -34,6 +37,15 @@ This project offers in-depth analytics, modeling, and mining of a comprehensive 
   - Applies RFM analysis to identify top customers.
   - Conducts time series analysis of sales and geospatial analysis of customer locations.
 
+### 4. [Sales_Prediction.ipynb](./Sales_Prediction.ipynb)
+
+- **Objective**: Predict sales using XGBoost regressor and evaluate the model's performance.
+  
+- **Key Features**:
+  - Selects relevant features for predicting sales based on correlation analysis.
+  - Performs hyperparameter tuning using GridSearchCV for XGBoost model.
+  - Evaluates the model using Mean Squared Error (MSE), R-squared, and Mean Absolute Error (MAE).
+
 ## Usage
 
 1. **Data_Analysis.ipynb**: Explore and visualize the supply chain dataset, perform preprocessing, and save the cleaned dataset.
@@ -42,6 +54,7 @@ This project offers in-depth analytics, modeling, and mining of a comprehensive 
 
 3. **Data_Mining.ipynb**: Analyze sales, revenue, and delivery performance. Apply RFM analysis, time series analysis, and geospatial analysis.
 
+4. **Sales_Prediction.ipynb**: Predict sales using XGBoost regressor and evaluate the model's performance.
 
 ## Implementations
 
@@ -283,8 +296,12 @@ plt.show()
 ## Requirements
 
 - Python 3.x
-- Libraries: pandas, matplotlib, seaborn, scikit-learn, geopandas (for geospatial analysis)
+- Libraries: pandas,numpy , matplotlib, seaborn, scikit-learn, xgboost, geopandas (for geospatial analysis)
 
 ## Conclusion
 
-This project provides a comprehensive view of the supply chain, enabling data-driven decision-making and strategic insights. Whether you are interested in sales patterns, customer segmentation, or delivery performance, this project serves as a valuable resource for supply chain analytics.
+This project has successfully undertaken a comprehensive exploration and analysis of a large-scale supply chain dataset. Through in-depth data analysis, advanced modeling techniques, and thorough data mining, the project has provided valuable insights across various dimensions of the supply chain landscape.
+
+The notebooks within this project have systematically addressed critical aspects, including sales patterns, revenue analysis, delivery performance, and customer behavior. Leveraging the predictive capabilities of the XGBoost regressor, the project has forecasted future sales with a high degree of accuracy, offering a forward-looking perspective for stakeholders.
+
+The outcomes of this project not only contribute to a deeper understanding of the current state of the supply chain but also provide actionable insights that can inform strategic decision-making. By combining analytical rigor with predictive modeling, this project stands as a valuable resource for organizations seeking to enhance their understanding of supply chain dynamics and optimize performance in the face of evolving market conditions.
