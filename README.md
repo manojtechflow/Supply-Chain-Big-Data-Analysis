@@ -219,6 +219,67 @@ plt.show()
 ``` 
 ![Customers Geospatial Analysis](./Results/Plots/geospatial.png)
 
+## XGBoosting Regressor Sale Prediction
+```python
+
+# Initialize the XGBoost model with regularization and best parameters based on the grid search
+xgb_model = XGBRegressor(
+    objective='reg:squarederror',
+    reg_alpha=0.1,  # L1 regularization term (adjust as needed)
+    reg_lambda=1.0,  # L2 regularization term (adjust as needed)
+    learning_rate = 0.2,
+    max_depth = 4,
+    min_child_weight = 3,
+    n_estimators = 200,
+    random_state=42
+)
+
+# Apply log transformation to target variable to handle potential negative predictions
+y_train_transformed = np.log1p(y_train)  # log(1 + y)
+y_test_transformed = np.log1p(y_test)
+
+X_train_np = X_train.to_numpy()
+X_test_np = X_test.to_numpy()
+# Train the model on the training set using 'fit' method
+xgb_model.fit(X_train_np, y_train_transformed)
+
+# Make predictions on the test set
+y_pred_transformed = xgb_model.predict(X_test_np)
+y_pred = np.expm1(y_pred_transformed)
+
+# Model Evaluation
+# Calculate Mean Square Error
+mse = mean_squared_error(y_test, y_pred)
+
+# Calculate R-squared
+r2 = r2_score(y_test, y_pred)
+
+# Calculate Mean Absolute Error (MAE)
+mae = mean_absolute_error(y_test, y_pred)
+
+# Print the evaluation metrics
+print(f"Mean Squared Error (MSE): {mse}")
+print(f"R-squared: {r2}")
+print(f"Mean Absolute Error (MAE): {mae}")
+
+# Time Series Plot for Actual and Predicted data
+# Convert 'year' and 'week' to datetime index
+grouped_data['Date'] = pd.to_datetime(grouped_data['year'].astype(str) + grouped_data['week'].astype(str) + '1', format='%Y%W%w')
+
+# Plot actual values and predictions
+plt.figure(figsize=(10, 6))
+plt.plot(grouped_data['Date'][train_mask], y_train, label='Actual (Train)', color='blue')
+plt.plot(grouped_data['Date'][test_mask], y_test, label='Actual (Test)', color='green')
+plt.plot(grouped_data['Date'][test_mask], y_pred, label='Predictions (Test)', color='red')
+plt.xlabel('Date')
+plt.ylabel('Sales')
+plt.title('Time Series Plot of Actual and Predicted Sales')
+plt.legend()
+plt.show()
+
+```
+![XGBoosting Prediction](./Results/Plots/sales_prediction.png)
+
 ## Requirements
 
 - Python 3.x
